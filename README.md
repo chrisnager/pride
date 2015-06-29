@@ -1,5 +1,5 @@
 # Pride
 
-Simple color hack to display the pride flag in the GitHub language bar. #lovewins
+Simple hack to display the colors of the pride flag in the GitHub language bar. #lovewins
 
-<3 [@chrisnager](//twitter.com/chrisnager)
+:heart: [@chrisnager](//twitter.com/chrisnager)
